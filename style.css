@@ -41,11 +41,4 @@ body {
     transition: all 0.85s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
-.min-hand {
-    min-height: 8px;
-    background: rgba(255, 255, 255, 0.6);
-}
-.second-hand {
-    min-height: 5px;
-    background: rgba(255, 255, 255, 0.8);
-}
+
